@@ -1,8 +1,5 @@
 # Simple-TCP-Servers-in-Python-and-Node.js
 
-
-# Simple TCP Servers in Python and Node.js
-
 This repository contains two implementations of a simple **TCP server**:
 
 - **Python-based TCP server** using the `socket` library.
@@ -15,8 +12,8 @@ Both servers:
 - Respond to the client with the received data (Node.js server only).
 
 ## Files
-- `server.py` – Python TCP server.
-- `server.js` – Node.js TCP server.
+- `tcp.py` – Python TCP server.
+- `tcp.js` – Node.js TCP server.
 
 ## Requirements
 - **Python** (for Python server)
